@@ -1,5 +1,4 @@
-"""
-Test cases for the calculator module.
+"""Test cases for the calculator module.
 """
 import pytest
 import sys
